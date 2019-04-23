@@ -4,7 +4,7 @@
 #include "process.h"
 #include "schedule.h"
 
-
+//要寫一個queue存process嗎?
 
 int main()
 {
